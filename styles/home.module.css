@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+    gap:20px;
+    background-color: aquamarine;
+    cursor: pointer;
+}

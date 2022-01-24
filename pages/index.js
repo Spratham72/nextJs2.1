@@ -1,4 +1,4 @@
  const indexPage=()=>{
-    return <p>index Page</p>
+    return <p>Index Page</p>
 }
 export default indexPage;
