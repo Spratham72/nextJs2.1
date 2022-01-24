@@ -1,0 +1,11 @@
+.user{
+    display: flex;;
+    gap: 5px;
+    padding: 50px;
+    background-color: aquamarine;
+    justify-content: center;
+}
+.user>button{
+    background-color: black;
+    color: aliceblue;
+}
